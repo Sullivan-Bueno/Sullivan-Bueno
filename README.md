@@ -22,3 +22,5 @@
   <a href="https://www.linkedin.com/in/sullivan-bueno-23842a2ab/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Sullivan-Bueno&show_icons=true&theme=buefy&hide_border=true" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sullivan-Bueno&layout=compact&theme=buefy&hide_border=true" /></a> | 
+
