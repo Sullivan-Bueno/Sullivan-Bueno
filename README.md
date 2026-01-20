@@ -1,6 +1,6 @@
 ## Olá! Sullivan Bueno aqui!
 
-- ☁  Tenho 19 anos, atualmente trabalho como Auxiliar de Sistemas
+- ☁  Tenho 20 anos, atualmente trabalho como Auxiliar de Sistemas
 - 🔭 Pretendo trabalhar como FullStack
 - 🌱 Me desenvolvendo em linguagens como JS, HTML e CSS.
 - 📫 Me envie um email: sullivanbueno16@gmail.com
